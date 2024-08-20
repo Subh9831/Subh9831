@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm SUBHAM 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yourname-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am a [Your Profession, e.g., Software Developer] with a passion for building efficient and scalable solutions. My work spans across various domains including [mention your specialties, e.g., Web Development, Data Science, Embedded Systems, etc.].
+I am a Full stack developer with a passion for building efficient and scalable solutions. My work spans across various domains including [mention your specialties, e.g., Web Development, Data Science, Embedded Systems, etc.].
 
 - 🎓 Currently learning: [mention any new technology or language]
 - 💡 Open to collaborating on: [mention types of projects, e.g., Open Source Projects, Machine Learning, etc.]
